@@ -1,2 +1,4 @@
 # hello-world
-Repository for use with get started guide
+Repository specified by started guide
+
+Author: Mike Hewlett
